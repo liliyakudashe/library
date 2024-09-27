@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff989d3d-c72f-415f-af14-5f852d906d39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/librarys/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/librarys/book_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/librarys/display.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/librarys/random_recommendation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/librarys/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librarys/book_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/librarys/book_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librarys/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/librarys/display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librarys/random_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/librarys/random_recommendation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librarys/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/librarys/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "liliyakudashe"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/liliyakudashe/library.git",
+    "accountId": "3271e147-b859-41a4-b3ef-8c10ef9e4387"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,14 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/liliyakudasheva/PycharmProjects/library&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/liliyakudasheva/PycharmProjects/library",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="library" />

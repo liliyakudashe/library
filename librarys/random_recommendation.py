@@ -5,7 +5,7 @@ from .book_manager import get_books
 def recommend_book():
     books = get_books()
     if not books:
-        print(f'Нет доступных книг')
+        print('Нет доступных книг для рекомдации')
         return
-    recommend = random.choice(books)
-    print(f'Рекомендованная книга {recommend['title']}  автор {recommend['author']}')
+    recommended = random.choice(books)
+    print(f"Рекомендуемая книга: '{recommended['title']}'автор: {recommended['author']}")
