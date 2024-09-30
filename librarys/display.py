@@ -1,7 +1,7 @@
 def display_books(books):
     if not books:
-        print('Книги не найдены')
+        print('Книга не найдена')
         return
-    print('Список книг:')
+    print('\nСписок книг')
     for idx, book in enumerate(books, start=1):
         print(f"{idx}. '{book['title']} автор: {book['author']}'")

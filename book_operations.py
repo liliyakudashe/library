@@ -6,5 +6,5 @@ def add_multiple_books():
         title = input("Введите название книги (или 'exit' для завершения): ")
         if title.lower() == 'exit':
             break
-        author = input('Введите автора книги: ')
+        author = input('Ввдите автора книги: ')
         add_book(title, author)
